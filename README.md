@@ -5,7 +5,7 @@
 
 
 <div align="justify">
-This repository contains the code of the Flower Recognizer app. Users can sign up using mail/password, Facebook, or Google and they can exploit the power of an apposite machine learning model to recognize flower from images.
+Have you found a beautiful flower while you were walking and would like to know its species? You can do it using this application, you'll just have to take a picture and wait a few seconds. This application is based on a neural network that is specially built for speed and lightness and is capable of recognizing up to 102 different species. It was developed in Flutter, which means that it is available for both Android and iOS.
 </div>
 
 ## Technical Details
